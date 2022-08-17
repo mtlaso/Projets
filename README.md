@@ -2,7 +2,7 @@
 Projets personnels
 
 1. Magasin Upnorth : https://github.com/euuuuh/Upnorth
-2. Calendrier React : https://github.com/euuuuh/calendrier
+2. Calendrier : https://github.com/euuuuh/calendrier-nextjs
 3. Rappels react-native : https://github.com/euuuuh/Rappels
 4. TodoApp : https://github.com/euuuuh/Todo-app
 5. Nightevent : https://github.com/euuuuh/Nightevent
