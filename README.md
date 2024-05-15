@@ -1,6 +1,6 @@
 # Projets/Projects
 
-1. Tacti.fun : https://gitlab.com/rareastro/projet-integrateur-equipe-x
+1. https://tacti.fun : https://gitlab.com/rareastro/projet-integrateur-equipe-x
 2. Google Calendar clone : https://github.com/euuuuh/calendrier-nextjs
 3. Todos react-native : https://github.com/euuuuh/Rappels
 4. Trello clone : https://github.com/appliquant/tp3-dev-web
